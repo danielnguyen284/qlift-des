@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "system_name": "QLIFT Core Design System v0.1",
+  "status": "AUTHORITATIVE_BRAND_FOUNDATION_WITH_PROPOSED_DIGITAL_EXTENSION",
+  "source": {
+    "document": "QLIFT brand guideline 2026",
+    "sha256": "7398DFE9A6B6CB1AE4C49F19872FB4CA1803AA2F5A275B645027133A49158557",
+    "page_count": 54
+  },
+  "color": {
+    "authoritative": {
+      "qlift_blue": "#343B9D",
+      "qlift_red": "#FD172B",
+      "charcoal": "#262626",
+      "metallic_silver": "#C4C8CE",
+      "ivory": "#F7F6F2",
+      "mist_blue": "#E8EAF6",
+      "teal": "#277C78",
+      "champagne": "#C4A265",
+      "architectural_beige": "#DED3C4"
+    },
+    "source_pages": [21, 22]
+  },
+  "typography": {
+    "status": "AUTHORITATIVE_FAMILY_ROLES",
+    "primary": "Montserrat",
+    "secondary": "Gilroy",
+    "secondary_condition": "Use only with licensed client files and verified Vietnamese glyph coverage; otherwise use Montserrat throughout.",
+    "available_weights_shown": ["Light", "Regular", "Medium", "Semibold", "Bold", "Extra Bold", "Black"],
+    "body_line_height_range": "120%-150%",
+    "source_pages": [29, 30, 31, 32, 33, 34, 35]
+  },
+  "logo": {
+    "status": "AUTHORITATIVE_RULES_TEMPORARY_RASTER_ASSETS",
+    "clear_space": "3/4 of the diameter or width of the circular form inside the symbol",
+    "minimum_size_mapping_requires_master_asset_confirmation": {
+      "vertical": {"print_mm": 20, "digital_px": 120},
+      "horizontal": {"print_mm": 47.5, "digital_px": 300},
+      "horizontal_with_slogan": {"print_mm": 43, "digital_px": 280}
+    },
+    "prohibited": ["recolor", "rotate", "flip", "distort", "outline", "blur", "effect", "gradient", "crop", "low_contrast"],
+    "source_pages": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+  },
+  "graphic_system": {
+    "pattern_basis": "six-sided hexagonal structure creating stable cube-like forms and continuous motion",
+    "watermark_blend_modes": ["Soft Light", "Overlay"],
+    "watermark_opacity_range": "20%-40%",
+    "source_pages": [47, 48, 49, 50, 51, 52]
+  },
+  "digital_values": {
+    "status": "PROPOSED_ONLY_UNTIL_REVIEW",
+    "type_scale": null,
+    "spacing_scale": null,
+    "grid": null,
+    "breakpoints": null,
+    "radii": null,
+    "elevation": null,
+    "motion": null
+  }
+}
+

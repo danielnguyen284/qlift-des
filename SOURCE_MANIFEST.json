@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "repository": "qlift-brand-system",
+  "target_system": "QLIFT Core Design System v0.1",
+  "canonical_source": {
+    "filename": "qlift-brand-guideline-2026.pdf",
+    "page_count": 54,
+    "sha256": "7398DFE9A6B6CB1AE4C49F19872FB4CA1803AA2F5A275B645027133A49158557",
+    "included_in_repository": false
+  },
+  "contents": {
+    "normalized_brand_documents": 9,
+    "machine_readable_token_files": 1,
+    "logo_png_files": 9,
+    "pattern_svg_files": 2,
+    "concept_jpeg_files": 9,
+    "guideline_reference_jpeg_files": 34,
+    "digital_guardrail_documents": 2
+  },
+  "excluded": [
+    "Next.js application code",
+    "Stitch HTML and synthetic fixture content",
+    "competitor sources",
+    "customer portal",
+    "demo office identities and contact details",
+    "unsupported QLIFT business claims"
+  ],
+  "asset_status": {
+    "logos": "SUPPLIED_UNAPPROVED_TEMPORARY_PDF_RENDERS",
+    "patterns": "SUPPLIED_UNAPPROVED_TEMPORARY_PDF_EXTRACTIONS",
+    "concept_images": "GENERATED_OPTION_REFERENCE_ONLY",
+    "guideline_page_images": "DERIVED_VISUAL_EVIDENCE"
+  }
+}
+

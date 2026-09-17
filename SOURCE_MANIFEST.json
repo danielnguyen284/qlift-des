@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
   "repository": "qlift-brand-system",
+  "repository_url": "https://github.com/danielnguyen284/qlift-des",
   "target_system": "QLIFT Core Design System v0.1",
   "canonical_source": {
     "filename": "qlift-brand-guideline-2026.pdf",
@@ -32,4 +33,3 @@
     "guideline_page_images": "DERIVED_VISUAL_EVIDENCE"
   }
 }
-

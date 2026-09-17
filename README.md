@@ -1,5 +1,7 @@
 # QLIFT Brand System Source
 
+Repository: `https://github.com/danielnguyen284/qlift-des`
+
 This repository is the clean source package for building and reviewing the reusable `QLIFT Core Design System v0.1` in Claude Design.
 
 It converts the supplied 54-page QLIFT brand guideline into explicit, searchable instructions and separate visual assets. Claude Design should read this repository instead of inferring the brand from the QLIFT application code, Stitch HTML, or one large PDF alone.
@@ -42,4 +44,3 @@ This repository intentionally excludes:
 - Official vector logo masters, licensed Gilroy files, and approved real photography are still missing.
 
 See `provenance/SOURCE.md` and `assets/README.md` for details.
-
